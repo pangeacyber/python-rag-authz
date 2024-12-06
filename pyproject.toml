@@ -9,7 +9,7 @@ dependencies = [
     "click>=8.1.7",
     "openai>=1.56.1",
     "pangea-sdk>=5.1.0",
-    "pydantic>=2.10.2",
+    "pydantic>=2.10.3",
     "python-dotenv>=1.0.1",
     "scipy>=1.14.1",
 ]
