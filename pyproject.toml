@@ -11,7 +11,7 @@ dependencies = [
     "pangea-sdk>=5.2.1",
     "pydantic>=2.10.4",
     "python-dotenv>=1.0.1",
-    "scipy>=1.14.1",
+    "scipy>=1.15.0",
 ]
 
 [tool.uv]
