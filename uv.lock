@@ -850,7 +850,7 @@ requires-dist = [
     { name = "click", specifier = ">=8.2.1" },
     { name = "openai", specifier = ">=1.107.1" },
     { name = "pangea-sdk", specifier = ">=6.6.0" },
-    { name = "pydantic", specifier = ">=2.11.7" },
+    { name = "pydantic", specifier = ">=2.11.8" },
     { name = "python-dotenv", specifier = ">=1.1.1" },
     { name = "scipy", specifier = ">=1.16.2" },
 ]
